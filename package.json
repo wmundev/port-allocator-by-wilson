@@ -1,0 +1,17 @@
+{
+  "name": "port-allocator-by-wilson",
+  "version": "1.0.0",
+  "description": "Port Allocator program that allocates two port numbers to an student made by Wilson Mun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wilson Mun",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.4"
+  }
+}
